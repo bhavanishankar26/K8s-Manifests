@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: gadebhavani26/packages:7
+      - image: gadebhavani26/packages:2
         name: myapp
         resources: {}
 status: {}
